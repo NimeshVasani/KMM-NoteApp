@@ -1,0 +1,19 @@
+CREATE TABLE noteListTable(
+    id INTEGER  NOT NULL PRIMARY KEY AUTOINCREMENT,
+    title TEXT NOT NULL,
+    content TEXT NOT NULL,
+    colorHex INTEGER NOT NULL,
+    created INTEGER NOT NULL
+);
+
+getAllNotes:
+SELECT * FROM noteListTable;
+
+getNotesById:
+SELECT * FROM noteListTable WHERE id = ?;
+
+addNote:
+INSERT OR REPLACE INTO noteListTable(id,title,content,colorHex,created) VALUES (?,?,?,?,?);
+
+deleteNote:
+DELETE FROM noteListTable WHERE id = ?;
