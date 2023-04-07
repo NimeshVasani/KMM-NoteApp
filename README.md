@@ -12,6 +12,6 @@ All copyright reserved @Nimesh Vasani
 
 This is New Kotlin Multiplatform Multiverse(KMM) Note App. Which work as a Native App on both platfrom(ios/Android).
 
-Built With : [KMM](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html),
+Built With : [Kotlin Multiplatform Multiverse- KMM](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html),
              [MVVM](https://developer.android.com/topic/libraries/architecture/viewmodel?gclid=CjwKCAjw5dqgBhBNEiwA7PryaEGGNXBuF_269i5vAml9SedixRgYXYfktdB8NOZm__qJWmdN6hpUahoC2IQQAvD_BwE&gclsrc=aw.ds#kotlin_1),
              
