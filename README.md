@@ -15,7 +15,7 @@ This is New Kotlin Multiplatform Multiverse(KMM) Note App. Which work as a Nativ
 In [KMM](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html), Project is Devided in 3 main Module.
 
 
-1. Android App with Jetpack Compose(Kotlin).
+1. Android App with [Jetpack Compose(Kotlin)](https://developer.android.com/jetpack/compose/tutorial?gclid=Cj0KCQjwxMmhBhDJARIsANFGOStPh7YOhBtFQyU3ILofDIjPxYDfbZmn59vEFwi9er06EG8tu9WryIwaAnDhEALw_wcB&gclsrc=aw.ds).
 
 2. ios App with [SwiftUI](https://developer.apple.com/tutorials/swiftui)(Swift).
 
