@@ -17,7 +17,7 @@ In [KMM](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html),
 
 1. Android App with Jetpack Compose(Kotlin).
 
-2. ios App with SwiftUI(Swift).
+2. ios App with [SwiftUI](https://developer.apple.com/tutorials/swiftui)(Swift).
 
 3. Shared Module, Common Shared logic in Kotlin Language. 
 
