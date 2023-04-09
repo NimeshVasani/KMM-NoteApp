@@ -19,7 +19,7 @@ In [KMM](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html),
 
 2. ios App with [SwiftUI](https://developer.apple.com/tutorials/swiftui)(Swift).
 
-3. [Shared Module]((https://kotlinlang.org/docs/multiplatform-mobile-understand-project-structure.html#shared-module)), Common Shared logic in Kotlin Language. 
+3. [Shared Module](https://kotlinlang.org/docs/multiplatform-mobile-understand-project-structure.html#shared-module), Common Shared logic in Kotlin Language. 
 
 
 Built With : [Kotlin Multiplatform Multiverse- KMM](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html),
