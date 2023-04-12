@@ -31,5 +31,7 @@ Built With : [Kotlin Multiplatform Multiverse- KMM](https://kotlinlang.org/docs/
 # Set Up For KMM Projects
 
 1. Goto `Android Studio` > `Setting` > `Plugins` > add `Kotlin Multiplatform Mobile` and `Restart the Android Studio`. 
+2. `Download` and make `Xcode` ready for use. 
+3. Set Up [`K-Doctor`](https://kotlinlang.org/docs/multiplatform-mobile-setup.html#check-your-environment)
 
              
