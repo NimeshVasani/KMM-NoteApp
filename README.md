@@ -63,6 +63,15 @@ dependencies {
             
 ```
 
+3. In IOS Main Section
+
+```kotlin
+dependencies {
+                implementation("com.squareup.sqldelight:native-driver:1.5.5")
+            }
+```
+
+
 # Shared Module for ios/android in kotlin. 
 
 
