@@ -30,6 +30,6 @@ Built With : [Kotlin Multiplatform Multiverse- KMM](https://kotlinlang.org/docs/
 
 # Set Up For KMM Projects
 
-1. Goto 'Android Studio > Setting > Plugins > add Kotlin Multiplatform Mobile and Restart the Android Studio'. 
+1. Goto `Android Studio` > `Setting` > `Plugins` > add `Kotlin Multiplatform Mobile` and `Restart the Android Studio`. 
 
              
