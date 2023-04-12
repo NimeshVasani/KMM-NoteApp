@@ -75,6 +75,25 @@ dependencies {
 
 ### Shared Module for ios/android in kotlin. 
 
+1. create Database Class. 
+2. create database Factory class
+3. create common shared logic.
+4. create database access objcet(DAO).
+5. develop business logic which gives common output.
+
+### Jetpack copose for android 
+
+create UI and ViewModel to get ata FroData from shared Module.
+Utilise Data coming from Dataase.
+
+
+### use SwiftUi for IOS app
+
+import shared module in all classes in ios
+handle database response and errors.
+
+# Thank You So much...!!!
+
 
 
              
