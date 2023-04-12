@@ -35,5 +35,9 @@ Built With : [Kotlin Multiplatform Multiverse- KMM](https://kotlinlang.org/docs/
 3. Set Up [`K-Doctor`](https://kotlinlang.org/docs/multiplatform-mobile-setup.html#check-your-environment)
 
    Using Comand `brew install kdoctor`
+   
+4. Create new Project `select Kotlin Multiplatform Mobile` from botton and name the app for both platform. 
+
+
 
              
