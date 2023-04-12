@@ -38,7 +38,7 @@ Built With : [Kotlin Multiplatform Multiverse- KMM](https://kotlinlang.org/docs/
    
 4. Create new Project `select Kotlin Multiplatform Mobile` from botton and name the app for both platform. 
 
-# set Up Shared Gradle file 
+# Set Up Shared Gradle file 
 
 1. In Common Main Section 
 
@@ -71,6 +71,7 @@ dependencies {
             }
 ```
 
+4. [Set Up Your Android Main App Gradle File.]((https://github.com/NimeshVasani/KMM-NoteApp/blob/androidApp/build.gradle.kts) 
 
 # Shared Module for ios/android in kotlin. 
 
