@@ -38,6 +38,22 @@ Built With : [Kotlin Multiplatform Multiverse- KMM](https://kotlinlang.org/docs/
    
 4. Create new Project `select Kotlin Multiplatform Mobile` from botton and name the app for both platform. 
 
+# set Up Shared Gradle file 
+
+1. In Common Main Section 
+
+ ```kotlin 
+   dependencies {
+                implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
+
+                implementation("com.squareup.sqldelight:runtime:1.5.5")
+                implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.4.0")
+
+            }
+```
+
+# Shared Module for ios/android in kotlin. 
+
 
 
              
