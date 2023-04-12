@@ -93,7 +93,6 @@ import shared module in all classes in ios
 handle database response and errors.
   <h1>
 <p align="center">
-
   Thank You So much...!!!
 </p>
 </h1>
