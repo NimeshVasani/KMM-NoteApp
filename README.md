@@ -92,7 +92,7 @@ Utilise Data coming from Dataase.
 import shared module in all classes in ios
 handle database response and errors.
 
-<p align="center"; style="font-size:100px">
+<p align="center";style="font-size:100px">
  Thank You So much...!!!
 </p>
 
