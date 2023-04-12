@@ -28,5 +28,8 @@ Built With : [Kotlin Multiplatform Multiverse- KMM](https://kotlinlang.org/docs/
                          
 ![alt text](https://github.com/NimeshVasani/KMM-NoteApp/blob/main/SnapShots/All_Screens.png)
 
+# Set Up For KMM Projects
+
+1. Goto 'Android Studio > Setting > Plugins > add Kotlin Multiplatform Mobile and Restart the Android Studio'. 
 
              
