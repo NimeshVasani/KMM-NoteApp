@@ -91,12 +91,12 @@ Utilise Data coming from Dataase.
 
 import shared module in all classes in ios
 handle database response and errors.
-
-<p align="center">
   <h1>
+<p align="center">
+
   Thank You So much...!!!
-    </h1>
 </p>
+</h1>
 
 
 
