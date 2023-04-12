@@ -43,14 +43,15 @@ Built With : [Kotlin Multiplatform Multiverse- KMM](https://kotlinlang.org/docs/
 1. In Common Main Section 
 
  ```kotlin 
-   dependencies {
+
+dependencies {
                 implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
 
                 implementation("com.squareup.sqldelight:runtime:1.5.5")
                 implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.4.0")
 
             }
-```
+ ```
 
 # Shared Module for ios/android in kotlin. 
 
