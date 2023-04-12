@@ -52,6 +52,16 @@ dependencies {
 
             }
  ```
+ 
+ 2. In Android Main Section 
+ 
+ ```kotlin
+ 
+ dependencies {
+                implementation("com.squareup.sqldelight:android-driver:1.5.5")
+            }
+            
+```
 
 # Shared Module for ios/android in kotlin. 
 
