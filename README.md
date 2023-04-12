@@ -87,7 +87,7 @@ create UI and ViewModel to get ata FroData from shared Module.
 Utilise Data coming from Dataase.
 
 
-### use SwiftUi for IOS app
+### Use SwiftUi for IOS app
 
 import shared module in all classes in ios
 handle database response and errors.
