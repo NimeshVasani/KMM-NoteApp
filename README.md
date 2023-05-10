@@ -96,8 +96,11 @@ handle database response and errors.
   Thank You So much...!!!
 </p>
 </h1>
-
-[Dm for Queries/Collaboration](https://github.com/NimeshVasani)
+ <h4>
+<p align="center">
+ [Dm for Queries/Collaboration](https://github.com/NimeshVasani)
+</p>
+</h4>
 
 
 
