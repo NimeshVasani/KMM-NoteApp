@@ -97,7 +97,7 @@ handle database response and errors.
 </p>
 </h1>
 
-                     [Dm for Queries/Collaboration](https://github.com/NimeshVasani)
+[Dm for Queries/Collaboration](https://github.com/NimeshVasani)
 
 
 
